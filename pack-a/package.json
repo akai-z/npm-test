@@ -1,6 +1,5 @@
 {
   "name": "@akai-z/pack-a",
-  "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "repository": "akai-z/npm-test"
