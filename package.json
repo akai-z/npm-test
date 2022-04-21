@@ -1,6 +1,6 @@
 {
   "name": "@akai-z/npm-test",
   "version": "1.0.0",
-  "main": "index.json",
+  "main": "index.js",
   "repository": "akai-z/npm-test"
 }
