@@ -1,5 +1,6 @@
 {
   "name": "@akai-z/npm-test",
+  "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "repository": "akai-z/npm-test",
